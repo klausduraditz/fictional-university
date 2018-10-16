@@ -10,7 +10,7 @@ function university_post_types() {
             'add_new_item' => 'Add New Event',
             'edit_item' => 'Edit Event',
             'all_items' => 'All Events',
-            'singular_name' => 'Event'
+            'singular_name' => 'Thing'
         ),
         'menu_icon' => 'dashicons-calendar' // wordpress dashicons
     ));
