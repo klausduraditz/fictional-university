@@ -1,6 +1,6 @@
 <?php
 
-
+//hello
 //register custom post types
 //!!Permalink-Structure in Backend has to be updated (permalinks won't work otherwise): Settings > Permalinks > Save Changes
 function university_post_types() {
